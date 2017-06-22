@@ -13,12 +13,13 @@ body {
     max-width: 1230px;
     margin: 0 auto;
     padding: 0 15px;
+    background-color: dimgrey;
 }
 .ba-container__title {
     font-size: 55px;
     font-family: "FF Meta Serif", serif;
     font-weight: 900;
-    text-align: left;
+    text-align: center;
     text-transform: uppercase;
     color: #FF0000;
 }
