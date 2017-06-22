@@ -22,6 +22,7 @@ body {
     text-align: center;
     text-transform: uppercase;
     color: #FF0000;
+    text-shadow: 3px 3px 2px black, 0 0 1em #ADFF2F;
 }
 img {
     max-width: 100%;
