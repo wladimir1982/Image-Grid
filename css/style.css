@@ -12,7 +12,7 @@ body {
 .ba-container {
     max-width: 1230px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 0 15px 15px;
     background-color: dimgrey;
 }
 .ba-container__title {
